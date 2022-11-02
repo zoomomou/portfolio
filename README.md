@@ -20,8 +20,16 @@ Still making decisions o post-graduate plans, but will travel a lot for sure bef
 
 ## Data Visualization Critique
 
+###### Critique 1
+
+###### Critique 2
+
 
 ## Data Visualization Workshop
+
+###### Workshop 1
+
+###### Workshop 2
 
 
 ## Final Project
