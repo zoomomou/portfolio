@@ -27,7 +27,7 @@ Still making decisions o post-graduate plans, but will travel a lot for sure bef
 
 ## Data Visualization Workshop
 
-###### Workshop 1
+###### Workshop 1 (/dataviz2.md)
 
 ###### Workshop 2
 
