@@ -9,7 +9,7 @@
 <br/>
 
 ## Part 2
-<div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br/>
 <br/>
