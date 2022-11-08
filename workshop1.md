@@ -1,19 +1,19 @@
 # Workshop 1
 
 
-## Part 1
+## Data Visualizaiton 1
 <iframe src="https://data.oecd.org/chart/6SiZ" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SiZ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 <br/>
 
-## Part 2
+## Data Visualizaiton 2
 <div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This grid of line charts illustrates how the government debt-to-GDP ratio of each country changes over time. Each country can be evaluated separately.
 
 <br/>
 
-## Part 3
+## Data Visualizaiton 3
 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11731684" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
