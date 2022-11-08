@@ -9,17 +9,17 @@
 
 ## Data Visualizaiton 2
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 This grid of line charts illustrates how the government debt-to-GDP ratio of each country changes over time. Each country can be evaluated separately.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br/>
 
 ## Data Visualizaiton 3
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/11731684" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 Government debt-to-GDP ratio is the value we analyze here, and it essentially indicates the sustainability of government finance. Changes, or in other words, increases in such value usually reflect the impact of deficits of government in the past. This line chart illustrates a comparison between Japan and U.S. on the changes in government debt in the past 27 years.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11731684" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br/>
 
