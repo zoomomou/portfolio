@@ -9,7 +9,8 @@
 
 ## Data Visualizaiton 2
 ```
-This grid of line charts illustrates how the government debt-to-GDP ratio of each country changes over time. Each country can be evaluated separately.
+This grid of line charts illustrates how the government debt-to-GDP ratio of each country changes over time. 
+Each country can be evaluated separately.
 ```
 <div class="flourish-embed flourish-chart" data-src="visualisation/11730569" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -17,7 +18,10 @@ This grid of line charts illustrates how the government debt-to-GDP ratio of eac
 
 ## Data Visualizaiton 3
 ```
-Government debt-to-GDP ratio is the value we analyze here, and it essentially indicates the sustainability of government finance. Changes, or in other words, increases in such value usually reflect the impact of deficits of government in the past. This line chart illustrates a comparison between Japan and U.S. on the changes in government debt in the past 27 years.
+Government debt-to-GDP ratio is the value we analyze here, and it essentially indicates the sustainability of 
+government finance. Changes, or in other words, increases in such value usually reflect the impact of deficits 
+of government in the past. This line chart illustrates a comparison between Japan and U.S. on the changes in 
+government debt in the past 27 years.
 ```
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11731684" data-width="80%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -25,7 +29,15 @@ Government debt-to-GDP ratio is the value we analyze here, and it essentially in
 
 ## Overall Comparison
 ```
-Each of the three data visualizations in this workshop has its pros and cons, as well as the group of audience each suit. For instance, the bar chart gives us a clear understanding of the comparison between the government debt of each country in 2018. The grid of line charts or the second data visualization illustrates the changes in government debt over time for each country. Audiences can easily observe the pattern of each country by looking at the grid charts. Nevertheless, it is difficult for audiences to see the relationship and make a comparison between countries, and that is the main reason I decide how I want to design the third data visualization. The third data visualization, shows the comparison between USA and Japan, which allows three variables on the same chart. However, this would only work when we are comparing two or three countries as it would be overwhelming to show a colored line for every country.
+Each of the three data visualizations in this workshop has its pros and cons, as well as the group of audience 
+each suit. For instance, the bar chart gives us a clear understanding of the comparison between the government 
+debt of each country in 2018. The grid of line charts or the second data visualization illustrates the changes 
+in government debt over time for each country. Audiences can easily observe the pattern of each country by 
+looking at the grid charts. Nevertheless, it is difficult for audiences to see the relationship and make a 
+comparison between countries, and that is the main reason I decide how I want to design the third data 
+visualization. The third data visualization, shows the comparison between USA and Japan, which allows three 
+variables on the same chart. However, this would only work when we are comparing two or three countries as it 
+would be overwhelming to show a colored line for every country.
 ```
 <br/>
 
