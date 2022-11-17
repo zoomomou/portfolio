@@ -9,6 +9,8 @@ I spent lots of time finding visualization that is about topics I am interested 
 
 ## Step two: critique the visualization
 
+Filling out this measurement is a helpful way for me to critique the original data visualization more systematically. It also helps me to reorganize my thoughts on where are the aspects that I want to show improvement in this visualization.
+
 ##### I. Sliding Scale (1 - 10)
 Usefulness - 9
 
