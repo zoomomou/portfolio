@@ -3,6 +3,8 @@
 ## Step one: find a data visualization
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.POP.65UP.TO.ZS" width='800' height='533' frameBorder='0' scrolling="no" ></iframe>
 
+I spent lots of time finding visualization that is about topics I am interested in and has data that I can use. I chose this data visualization from World Bank because I think the topic is relevant to everyone, and I am impressed by the data. However, the original visualization is not presenting the data in its best way, there is much space for improvement. Therefore, I want to redesign this chart and utilize the surprising data to represent this surprising fact and trend.
+
 <br/>
 
 ## Step two: critique the visualization
