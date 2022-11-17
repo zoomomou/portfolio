@@ -39,6 +39,36 @@ I think the method we use for this evaluation is quite successful, while I do th
 
 ## Step four: test the solution
 
+##### Person 1 - female, student, 20s
+
+Q1. Can you tell me what you think this is?
+
+A: This is the proportion of the population ages 65 and above in the USA, China, and the world as a whole.
+
+Q2. Can you describe what you see in the first place?
+
+A: There is an increase in the proportion of the population ages 65 and above in the USA, CHINA, and the world as a whole.
+
+Q3. Is there anything you find surprising or confusing?
+
+A: It surprises me that the USA has the highest proportion of the population ages 65 and above in 2021.
+
+Q4. Who do you think is the intended audience for this?
+
+A: I think the intended audiences could be Social Security Bureau and the census agency.
+
+Q5. Is there anything you would change or do differently?
+
+A: I would probably change the labels on the x-axis to every 5 years rather than 10 years.
+
+Q6. Do you like the original version or the revised version better, why?
+
+A: I think the revised version is better because you can see the contrast between China and the United States and the world. Also, you can see the changes in the world more clearly, as the line on the original version is relatively flat and does not reflect some of the minor changes.
+
+<br/>
+
+
+
 
 ## Step five: build your solution
 
