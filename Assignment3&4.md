@@ -7,11 +7,17 @@
 
 ##### Sliding Scale (1 - 10)
 Usefulness - 9
+
 Completeness - 8
+
 Perceptibility - 8
+
 Truthfulness - 7
+
 Intuitiveness - 9
+
 Aesthetics - 7
+
 Engagement - 9
 
 ##### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
