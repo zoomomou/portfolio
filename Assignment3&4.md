@@ -4,7 +4,7 @@
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.POP.65UP.TO.ZS" width='800' height='533' frameBorder='0' scrolling="no" ></iframe>
 
 ## Step two: critique the visualization
-</b>
+
 ##### Sliding Scale (1 - 10)
 Usefulness - 9
 Completeness - 8
