@@ -127,6 +127,9 @@ I think the topic is pretty straightforward and the visualization is easy to rea
 </script>
 
 
+##### Final thoughts
+
+I decided to use Tableau for the redesign because I found it quite powerful, and would like to explore more on this software. In summary, I am happy with the result as it tells a story concisely and clearly. Also, I am satisfied with the color scheme here, as red and blue get people’s attention while also representing the color of the flag for each country. 
 
 <br/>
 
