@@ -5,7 +5,7 @@
 
 ## Step two: critique the visualization
 </b>
-##### Sliding Scale
+##### Sliding Scale (1 - 10)
 Usefulness - 9
 Completeness - 8
 Perceptibility - 8
