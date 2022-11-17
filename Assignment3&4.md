@@ -3,6 +3,7 @@
 ## Step one: find a data visualization
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.POP.65UP.TO.ZS" width='800' height='533' frameBorder='0' scrolling="no" ></iframe>
 
+
 ## Step two: critique the visualization
 
 ##### I. Sliding Scale (1 - 10)
@@ -32,6 +33,7 @@ The primary audience can be anyone, as it is a graph that shows the depopulation
 ##### IV. Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
 I think the method we use for this evaluation is quite successful, while I do think that there are two aspects that could be explicated more clearly. The first one would be, whether the data visualization is concise. In other words, is there anything that is irrelevant, or does not help with the illustration? The second recommendation is the measurement of the use of color. Other than the aesthetics part, is the color used in the visualization consistent with the theme of the topic discussed? Color theory and color psychology might be applied here.
+
 
 ## Step three: wireframe a solution
 
@@ -67,6 +69,31 @@ A: I think the revised version is better because you can see the contrast betwee
 
 <br/>
 
+##### Person 2 - male, adult, 30s
+
+Q1. Can you tell me what you think this is?
+
+A: This is the aging process in the population of the United States compared to the world's second-largest economy and the world's average.
+
+Q2. Can you describe what you see in the first place?
+
+A: The population of the United States is aging heavily.
+
+Q3. Is there anything you find surprising or confusing?
+
+A: The degree of aging in the United States fluctuated significantly between 1970 and 1990.
+
+Q4. Who do you think is the intended audience for this?
+
+A: I think the intended audiences are people in the defense sector, pharmaceutical industry, health insurance industry, and health care industry.
+
+Q5. Is there anything you would change or do differently?
+
+A: The “world” line could be used in grey color as it is not a country. Could be used as a reference line.
+
+Q6. Do you like the original version or the revised version better, why?
+
+A: I like the revised one because the solid line is clear and concise, and adding comparisons between countries can better explain the problem.
 
 
 
