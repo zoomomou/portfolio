@@ -3,6 +3,7 @@
 ## Step one: find a data visualization
 <iframe src="https://data.worldbank.org/share/widget?indicators=SP.POP.65UP.TO.ZS" width='800' height='533' frameBorder='0' scrolling="no" ></iframe>
 
+<br/>
 
 ## Step two: critique the visualization
 
@@ -34,10 +35,13 @@ The primary audience can be anyone, as it is a graph that shows the depopulation
 
 I think the method we use for this evaluation is quite successful, while I do think that there are two aspects that could be explicated more clearly. The first one would be, whether the data visualization is concise. In other words, is there anything that is irrelevant, or does not help with the illustration? The second recommendation is the measurement of the use of color. Other than the aesthetics part, is the color used in the visualization consistent with the theme of the topic discussed? Color theory and color psychology might be applied here.
 
+<br/>
 
 ## Step three: wireframe a solution
 
 ![alt text](images/population_sketch.JPG)
+
+<br/>
 
 ## Step four: test the solution
 
@@ -96,6 +100,8 @@ Q6. Do you like the original version or the revised version better, why?
 A: I like the revised one because the solid line is clear and concise, and adding comparisons between countries can better explain the problem.
 
 
+
+<br/>
 
 ## Step five: build your solution
 
