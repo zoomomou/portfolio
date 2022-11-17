@@ -105,7 +105,11 @@ Q6. Do you like the original version or the revised version better, why?
 
 A: I like the revised one because the solid line is clear and concise, and adding comparisons between countries can better explain the problem.
 
+<br/>
 
+##### Thoughts before building final solution:
+
+I think the topic is pretty straightforward and the visualization is easy to read, as I get the response that both interviewees can identify the story, and none of them find anything confusing. I also notice that both of them are surprised by the high proportion of the population ages 65 and above in the US. They also share the mutual idea that the revised version is better as it is more concise while providing accurate data, and both of them like the comparison that I created in the revised version. In terms of the target audience, they have different answers that are both right, and I think the answer to this question is associated with their educational/working backgrounds. Additionally, both of them gave great suggestions that I can adapt. I think having the “world” line in grey is enhancing the comparison between USA and China, while the world average is still there serving as a reference line. Also, I think it might make sense to change the x-axis to every 5 years depending on the size of the chart. Thus, I am happy that I got those suggestions and would make these changes in the final redesign.
 
 <br/>
 
