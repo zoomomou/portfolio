@@ -45,6 +45,8 @@ I think the method we use for this evaluation is quite successful, while I do th
 
 ![alt text](images/population_sketch.JPG)
 
+Based on the evaluation above, I made changes to the accuracy of the number, color scheme, as well as added a comparison between countries and the world average to narrow down the target audience.
+
 <br/>
 
 ## Step four: test the solution
