@@ -35,7 +35,7 @@ I think the method we use for this evaluation is quite successful, while I do th
 
 ## Step three: wireframe a solution
 
-(https://github.com/zoomomou/portfolio/blob/6921b1075b5b720a0ec1b92cf642d752355c6acc/images/population_sketch.JPG)
+![alt text](https://github.com/zoomomou/portfolio/blob/6921b1075b5b720a0ec1b92cf642d752355c6acc/images/population_sketch.JPG)
 
 ## Step four: test the solution
 
