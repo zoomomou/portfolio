@@ -35,7 +35,7 @@ Still making decisions o post-graduate plans, but will travel a lot for sure bef
 
 ## Final Project
 
-###### Part 1
+###### [Part 1](/Part1.md)
 
 ###### Part 2
 
