@@ -13,15 +13,15 @@ In conclusion, with data visualization, we will be able to identify what are the
 
 ## Project Structure
 
-![alt text](images/ProjectStructure.JPG)
+![alt text](images/ProjectStructure.jpg)
 
 The project structure in corporates with the summary, explains how will I unfold the story.
 
 # Initial Sketches
 
-![alt text](images/Sketch1.JPG)
+![alt text](images/Sketch1.jpg)
 
-![alt text](images/Sketch2.JPG)
+![alt text](images/Sketch2.jpg)
 
 # Data
 
