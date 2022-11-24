@@ -27,7 +27,7 @@ The project structure in corporates with the summary, explains how will I unfold
 
 ## [Data](https://www.iihs.org/topics/fatality-statistics/detail/yearly-snapshot)
 
-The data source I will use is linked above. This data source that I found covers all the related data that I will need for the project. It does not contain much visualization, just data tables, and therefore, I will be using the data from this source to create my story. This data source is liable and has been used as a reference for other analyses.
+The data source I will use is linked above. This data source that I found covers all the related data that I will need for the project. It does not contain much visualization, just data tables, and therefore, I will be using the data from this source to create my story. This data source is reliable and has been used as a reference for other analyses.
 
 I am going to selectively use the data from this source. Additionally, since data itself cannot be downloaded directly, I will need to create my own excel datasets using the numbers from this source to upload data to tableau and flourish.
 
