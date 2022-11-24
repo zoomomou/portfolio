@@ -27,6 +27,12 @@ The project structure in corporates with the summary, explains how will I unfold
 
 ## [Data](https://www.iihs.org/topics/fatality-statistics/detail/yearly-snapshot)
 
+The data source I will use is linked above. This is the data source that I found, and it has everything that I will need for the project. It does not contain much data visualization, and therefore, I will be using the data from this source to create my story. This data source is liable and has been used as a reference for other analyses.
+
+I am going to selectively use the data from this source. Additionally, since data itself cannot be downloaded directly, I will need to create my own excel datasets using the numbers from this source to upload data to tableau and flourish.
+
+To be more specific, I will begin with the trend table, showing the overall trend of the rising in car accidents in the past 10 years. From this chart, readers will be able to tell that there has been a notable rise since 2015 (especially 2019-2020). Then, I will be using the data from the other tables in this source to illustrate the possible reasons for the rise in the number of car accidents.
+
 
 ## Method and Medium
 
