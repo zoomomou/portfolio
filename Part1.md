@@ -28,7 +28,7 @@ The project structure in corporates with the summary, explains how will I unfold
 
 # Method and Medium
 
-I am planning on using Shorthand as the digital platform for this project. Meanwhile, I am planning on using Tableau as well as Flourish to realize the sketches that I made.
+I am planning on using Shorthand as the digital platform for this project. I am also going to create a simple version of the project for the presentation. Meanwhile, I am planning on using Tableau as well as Flourish to realize the sketches that I made.
 
 <br/>
 
