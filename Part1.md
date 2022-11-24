@@ -15,7 +15,7 @@ In conclusion, with data visualization, we will be able to identify what are the
 
 The project structure in corporates with the summary, explains how will I unfold the story.
 
-## Initial Sketches
+# Initial Sketches
 
 
 
