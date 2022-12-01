@@ -8,22 +8,22 @@
 
 1. Just got my driver’s license, hoping to learn protocols that help me drive safely.
 2. Found data about common factors that might cause the car accident
-        /* Seatbelt, speeding, distraction, time of the day, age, gender
+        1. Seatbelt, speeding, distraction, time of the day, age, gender
 3. Interviewed several friends. From interview:
-        * car accidents are very common, either experienced themselves or witnessed friends get into car accidents.
-        * Safe driving is important to everyone
-        * Most important factors by ranking: Seatbelt, distraction/concentration, speeding
+        1. car accidents are very common, either experienced themselves or witnessed friends get into car accidents.
+        2. Safe driving is important to everyone
+        3. Most important factors by ranking: Seatbelt, distraction/concentration, speeding
 4. Visualized data I found online, and get the result
-        * Most important factors according to data: gender, seatbelt, distraction
+        1. Most important factors according to data: gender, seatbelt, distraction
 5. Comparison, analysis, and conclusion (according to interviewee and data)
 6. Call-to-action: be mindful of the important factors, they are proven effective both through data and experiences
 7. Other pieces of advice from interviewees: 
-        * do not drink if you are going to drive
-        * Don't take any chances, you are not always going to be lucky
-        * Lower the speed when pass the crossing
-        * The faster the car, the more you have to subconsciously concentrate on driving
-        * When there is a problem with the car to be repaired as soon as possible, even if it does not affect normal driving
-        * Remind yourself often to look in the rearview mirror
+        1. do not drink if you are going to drive
+        2. Don't take any chances, you are not always going to be lucky
+        3. Lower the speed when pass the crossing
+        4. The faster the car, the more you have to subconsciously concentrate on driving
+        5. When there is a problem with the car to be repaired as soon as possible, even if it does not affect normal driving
+        6. Remind yourself often to look in the rearview mirror
 
 
 ## User Research
