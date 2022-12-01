@@ -30,15 +30,6 @@ _*Content Warning: This page contains sensitive content that may be harmful or t
 
 ## User Research
 
-What I hope to find during your user interviews:
-
-* Is car accident a common thing for everyone
-* How important is safe driving to people
-* Through first-hand experience, what are the factors that people believe most affect safe driving
-* What might cause them to change their driving habits
-* Are there any safe-driving measures or methods that people find helpful
-* Any other suggestion people have to new drivers
-
 
 ## Interviews
 
@@ -46,6 +37,16 @@ What I hope to find during your user interviews:
   
 
 ## Other Prep Works - Survey
+  
+
+What I hope to find during survey:
+
+* Is car accident a common thing for everyone
+* How important is safe driving to people
+* Through first-hand experience, what are the factors that people believe most affect safe driving
+* What might cause them to change their driving habits
+* Are there any safe-driving measures or methods that people find helpful
+* Any other suggestion people have to new drivers
   
 Survey Questions:
 
@@ -61,7 +62,8 @@ _*Content Warning: This interview contains sensitive questions that may be harmf
 8.  What measures have you taken to drive safely? Do you think it has helped?
 9. Is there anything else that was not covered in the above question that you would like to share?
 
-
+Responders: 
+  
 Responder 1: Female, 20s, has a driver's license
 
 Responder 2: Male, 30s, has a driver's license
