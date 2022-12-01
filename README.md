@@ -37,7 +37,7 @@ Still making decisions o post-graduate plans, but will travel a lot for sure bef
 
 ###### [Part 1](/Part1.md)
 
-###### Part 2
+###### [Part 2](/Part2.md)
 
 ###### Part 3
 
