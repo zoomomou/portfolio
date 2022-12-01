@@ -1,5 +1,5 @@
 # Final Project Part 1
-*Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people.
+_*Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people._
 
 ## Storyboard
 
@@ -42,7 +42,7 @@ What I hope to find during your user interviews:
 
 ##### Interview Questions
 
-*Content Warning: This interview contains sensitive questions that may be harmful or traumatizing to some people.
+_*Content Warning: This interview contains sensitive questions that may be harmful or traumatizing to some people._
 
 1. Do you have a driver’s license? If so, how often do you drive?
 2. Have you ever been in a car accident? Or is there a car accident that really struck you? Can you briefly describe the situation, if applied?
