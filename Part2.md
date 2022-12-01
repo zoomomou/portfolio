@@ -8,7 +8,7 @@
 
 1. Just got my driver’s license, hoping to learn protocols that help me drive safely.
 2. Found data about common factors that might cause the car accident
-        * Seatbelt, speeding, distraction, time of the day, age, gender
+        /* Seatbelt, speeding, distraction, time of the day, age, gender
 3. Interviewed several friends. From interview:
         * car accidents are very common, either experienced themselves or witnessed friends get into car accidents.
         * Safe driving is important to everyone
