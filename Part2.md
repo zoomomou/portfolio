@@ -1,5 +1,5 @@
 # Final Project Part 1
-* Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people.
+*Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people.
 
 ## Wireframe
 
