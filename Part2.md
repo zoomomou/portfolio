@@ -1,9 +1,6 @@
 # Final Project Part 1
 *Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people.
 
-## Wireframe
-
-
 ## Storyboard
 
 1. Just got my driver’s license, hoping to learn protocols that help me drive safely.
@@ -26,10 +23,24 @@
 * Remind yourself often to look in the rearview mirror
 
 
+## Wireframe
+
+
 ## User Research
+
+What I hope to find during your user interviews:
+
+* Is car accident a common thing for everyone
+* How important is safe driving to people
+* Through first-hand experience, what are the factors that people believe most affect safe driving
+* What might cause them to change their driving habits
+* Are there any safe-driving measures or methods that people find helpful
+* Any other suggestion people have to new drivers
 
 
 ## Interviews
+
+##### Interview Questions
 
 *Content Warning: This interview contains sensitive questions that may be harmful or traumatizing to some people.
 
@@ -43,6 +54,7 @@
 8.  What measures have you taken to drive safely? Do you think it has helped?
 9. Is there anything else that was not covered in the above question that you would like to share?
 
+##### Interview Script
 
 
 
