@@ -56,7 +56,59 @@ _*Content Warning: This interview contains sensitive questions that may be harmf
 
 ##### Interview Script
 
+Interviewee 1: Female, 20s, has a driver's license
 
+1. Do you have a driver’s license? If so, how often do you drive?
+2. Have you ever been in a car accident? Or is there a car accident that really struck you? Can you briefly describe the situation, if applied?
+3. How much of an impact do you think safe driving has on your life?
+4. What do you think is the most important factor for safe driving? Why?
+5. Can you rank the 6 given factors from most important to least important? Can you explain how you decided on your top three choices? (Seat belt, speeding, distraction, time of the day, age, gender)
+6. What kinds of things would cause you to change your driving habits?
+7. What advice would you give to someone who drives dangerously? 
+8.  What measures have you taken to drive safely? Do you think it has helped?
+9. Is there anything else that was not covered in the above question that you would like to share?
+
+<br/>
+
+Interviewee 2: Male, 30s, has a driver's license
+
+1. Do you have a driver’s license? If so, how often do you drive?
+2. Have you ever been in a car accident? Or is there a car accident that really struck you? Can you briefly describe the situation, if applied?
+3. How much of an impact do you think safe driving has on your life?
+4. What do you think is the most important factor for safe driving? Why?
+5. Can you rank the 6 given factors from most important to least important? Can you explain how you decided on your top three choices? (Seat belt, speeding, distraction, time of the day, age, gender)
+6. What kinds of things would cause you to change your driving habits?
+7. What advice would you give to someone who drives dangerously? 
+8.  What measures have you taken to drive safely? Do you think it has helped?
+9. Is there anything else that was not covered in the above question that you would like to share?
+
+<br/>
+
+Interviewee 3: Female, 20s, does not have a driver's license
+
+1. Do you have a driver’s license? If so, how often do you drive?
+2. Have you ever been in a car accident? Or is there a car accident that really struck you? Can you briefly describe the situation, if applied?
+3. How much of an impact do you think safe driving has on your life?
+4. What do you think is the most important factor for safe driving? Why?
+5. Can you rank the 6 given factors from most important to least important? Can you explain how you decided on your top three choices? (Seat belt, speeding, distraction, time of the day, age, gender)
+6. What kinds of things would cause you to change your driving habits?
+7. What advice would you give to someone who drives dangerously? 
+8.  What measures have you taken to drive safely? Do you think it has helped?
+9. Is there anything else that was not covered in the above question that you would like to share?
+
+<br/>
+
+Interviewee 4: Male, 20s, has a driver's license
+
+1. Do you have a driver’s license? If so, how often do you drive?
+2. Have you ever been in a car accident? Or is there a car accident that really struck you? Can you briefly describe the situation, if applied?
+3. How much of an impact do you think safe driving has on your life?
+4. What do you think is the most important factor for safe driving? Why?
+5. Can you rank the 6 given factors from most important to least important? Can you explain how you decided on your top three choices? (Seat belt, speeding, distraction, time of the day, age, gender)
+6. What kinds of things would cause you to change your driving habits?
+7. What advice would you give to someone who drives dangerously? 
+8.  What measures have you taken to drive safely? Do you think it has helped?
+9. Is there anything else that was not covered in the above question that you would like to share?
 
 
 <br/>
