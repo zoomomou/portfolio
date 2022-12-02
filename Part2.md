@@ -10,7 +10,7 @@ _*Content Warning: This page contains sensitive content that may be harmful or t
 * car accidents are very common, either experienced themselves or witnessed friends get into car accidents.
 * Safe driving is important to everyone
 * Most important factors by ranking: Seatbelt, distraction/concentration, speeding
-4. Visualized data I found online, and get the result:
+4. Visualize data I found online, and get the result:
 *  Most important factors according to data are: gender, seatbelt, distraction
 5. Comparison, analysis, and conclusion (according to what people think and the actual data)
 6. Call-to-action: be mindful of the important factors, they are proven effective both through data and experiences
