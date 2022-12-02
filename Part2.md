@@ -26,7 +26,7 @@ _*Content Warning: This page contains sensitive content that may be harmful or t
 
 ## Storyboard/Wireframe
 
-[Shorthand Link](https://preview.shorthand.com/xiTvrUp4s1sBAhEv)
+[Shorthand Link](https://preview.shorthand.com/4YigjRKvgqbFR0Xl)
 
 
 ## User Research
