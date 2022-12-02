@@ -32,15 +32,15 @@ _*Content Warning: This interview contains sensitive questions that may be harmf
 8.  What measures have you taken to drive safely? Do you think it has helped?
 9. Is there anything else that was not covered in the above question that you would like to share?
 
-Responders: 
+Respondents: 
   
-Responder 1: Female, 20s, has a driver's license
+Respondent 1: Female, 20s, has a driver's license
 
-Responder 2: Male, 30s, has a driver's license
+Respondent 2: Male, 30s, has a driver's license
 
-Responder 3: Female, 20s, does not have a driver's license
+Respondent 3: Female, 20s, does not have a driver's license
 
-Responder 4: Male, 20s, has a driver's license
+Respondent 4: Male, 20s, has a driver's license
 
 
 ## User Research
