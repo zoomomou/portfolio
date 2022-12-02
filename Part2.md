@@ -2,45 +2,14 @@
 
 _*Content Warning: This page contains sensitive content that may be harmful or traumatizing to some people._
 
-## Summary
-
-1. Just got my driver’s license, hoping to learn protocols that help me drive safely.
-2. Found data about common factors that might cause the car accident
-* Seatbelt, speeding, distraction, time of the day, age, gender
-3. Had several friends filled out a survey(questions see below). From the survey I learned:
-* car accidents are very common, either experienced themselves or witnessed friends get into car accidents.
-* Safe driving is important to everyone
-* Most important factors by ranking: Seatbelt, distraction/concentration, speeding
-4. Visualize data I found online, and get the result:
-*  Most important factors according to data are: gender, seatbelt, distraction
-5. Comparison, analysis, and conclusion (according to what people think and the actual data)
-6. Call-to-action: be mindful of the important factors, they are proven effective both through data and experiences
-7. Other pieces of advice from interviewees: 
-* do not drink if you are going to drive
-* Don't take any chances, you are not always going to be lucky
-* Lower the speed when pass the crossing
-* The faster the car, the more you have to subconsciously concentrate on driving
-* When there is a problem with the car to be repaired as soon as possible, even if it does not affect normal driving
-* Remind yourself often to look in the rearview mirror
-
 
 ## Storyboard/Wireframe
 
 [Shorthand Link](https://preview.shorthand.com/4YigjRKvgqbFR0Xl)
 
-
-## User Research
-
-
-## Interviews
-
-##### Interview Questions
+##### Other Prep Works - Survey
   
-
-## Other Prep Works - Survey
-  
-
-What I hope to find during survey:
+What I hope to find from the survey:
 
 * Is car accident a common thing for everyone
 * How important is safe driving to people
@@ -72,6 +41,17 @@ Responder 2: Male, 30s, has a driver's license
 Responder 3: Female, 20s, does not have a driver's license
 
 Responder 4: Male, 20s, has a driver's license
+
+
+## User Research
+
+What I hope to get from the 
+
+## Interviews
+
+##### Interview Questions
+  
+
 
 
 <br/>
