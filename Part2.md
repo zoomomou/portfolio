@@ -67,7 +67,7 @@ From the interviews, I hope to find out whether my story seems clear to users, w
 | 8. Do you think beginning drivers would benefit from this story, why? | Surely they will. Those numbers straightly connecting deaths with car crashes due to different reasons will make them be more careful when driving on the road. | Yes! Actually! This story is telling truth! | Novice drivers will benefit from it. This tells the novice driver that even though vehicles are now safer and road conditions are getting better, traffic accidents resulting in injuries and fatalities are happening every day. This story also tells the reader what to do to avoid tragedies. |
 | 9. What are some other suggestions you might give? | Maybe we could make the alcohol visualization part more impressive, as this lesson is a very important one for drivers in the USA. | With more horrible pictures, giving beginning drivers a shock! | You can list some special dangerous situations that drivers may encounter on the road, such as accidents caused by scrap tires left on the road after other vehicles have blown out; accidents caused by the sudden appearance of wild animals; accidents caused by accidental tire blowouts, etc. These all put demands on the driver's concentration and stress response. |
 
-##### Findings from interviews
+##### Findings from interviews:
 
 I noticed that all respondents were able to identify the purpose of the story and found it compelling. No one felt that anything confused them, but the data did surprise most of them, as some of it may have been more exaggerated than they thought.
 
@@ -78,7 +78,7 @@ In addition, I received compliment from all of them in terms of the overall desi
 Again, in the last question, most of them mentioned using more shocking images/data visualizations to catch the reader's eye, while one of them mentioned other additional advice I could give to new drivers.
 
 
-##### Changes I plan to implement
+##### Changes I plan to implement:
 
 In terms of the changes I plan to implement, I will consider making the visuals more stunning. For example, I could add more warning images and make some adjustments to the color scheme to make it look more serious.
 
