@@ -69,8 +69,22 @@ From the interviews, I hope to find out whether my story seems clear to users, w
 
 ##### Findings from interviews
 
+I noticed that all respondents were able to identify the purpose of the story and found it compelling. No one felt that anything confused them, but the data did surprise most of them, as some of it may have been more exaggerated than they thought.
+
+As for what didn't work, they had almost entirely different answers; for example, one person suggested using more shocking images to deepen the reader's impression. Likewise, the answers differed in terms of what I didn't show that they would have liked to see. I think it depended on their different personal experiences, which made them focus on different aspects.
+
+In addition, I received compliment from all of them in terms of the overall design as well as data visualization design, although I probably need to be clearer on the BAC level. Again, all three interviewees felt that this story would benefit new drivers because I was representing results supported by actual data.
+
+Again, in the last question, most of them mentioned using more shocking images/data visualizations to catch the reader's eye, while one of them mentioned other additional advice I could give to new drivers.
+
 
 ##### Changes I plan to implement
+
+In terms of the changes I plan to implement, I will consider making the visuals more stunning. For example, I could add more warning images and make some adjustments to the color scheme to make it look more serious.
+
+I will also be making changes to some of the data visualizations to make them look clearer to the reader. For example, adding "did not drink, drank a little, and got drunk" next to the BAC levels will help people understand the data better. Likewise, I will test the data with more chart types to improve the explanation.
+
+In addition, I will include more suggestions in the last slide, and therefore novice drivers can benefit from these additional suggestions.
 
 
 <br/>
