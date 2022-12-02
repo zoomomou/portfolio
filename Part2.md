@@ -68,7 +68,7 @@ What I hope to get from the interview:
 | --- | --- | --- | --- |
 | 1. What story do you think this is about?  | 1 | 2 | 3 |
 | 2. How do you feel about the story, is it convincing? | 1 | 2 | 3 |
-| 3. Did you find anything surprising or confusing? | 1 | 2 | | 3 |
+| 3. Did you find anything surprising or confusing? | 1 | 2 | 3 |
 | 4. What worked, what didn’t work? What are the things you might do differently? | 1 | 2 | 3 |
 | 5. Is there anything else that is missing that you would like to see? | 1 | 2 | 3 |
 | 6. How does the overall design look to you? | 1 | 2 | 3 |
