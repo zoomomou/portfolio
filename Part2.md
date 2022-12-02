@@ -45,21 +45,11 @@ Respondent 4: Male, 20s, has a driver's license
 
 ## User Research & Interviews
 
-What I hope to get from the interview:
-* 
+##### What I hope to get from the interview:
 
-
-##### Interview Questions
-
-1. What story do you think this is about? 
-2. How do you feel about the story, is it convincing?
-3. Did you find anything surprising or confusing?
-4. What worked, what didn’t work? What are the things you might do differently?
-5. Is there anything else that is missing that you would like to see?
-6. How does the overall design look to you? 
-7. How would you improve the data visualization design? Do they seem to explain the data well?
-8. Do you think beginning drivers would benefit from this story, why?
-9. What are some other suggestions you might give?
+##### Foreword
+The target audience of this story is new drivers, and I aim to help them identify the most important factors for safe driving. 
+My interviewees vary from male to female, age 20s to 30s, and new drivers to skilled drivers
 
 ##### Interview Script
 
@@ -74,6 +64,12 @@ What I hope to get from the interview:
 | 7. How would you improve the data visualization design? Do they seem to explain the data well? | 1 | 2 | 3 |
 | 8. Do you think beginning drivers would benefit from this story, why? | 1 | 2 | 3 |
 | 9. What are some other suggestions you might give? | 1 | 2 | 3 |
+
+##### Findings from interviews
+
+
+##### Changes I plan to implement
+
 
 <br/>
 
