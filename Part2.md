@@ -42,14 +42,16 @@ Respondent 3: Female, 20s, does not have a driver's license
 
 Respondent 4: Male, 20s, has a driver's license
 
+<br/>
 
 ## User Research & Interviews
 
-##### What I hope to get from the interview:
 
 ##### Foreword
 The target audience of this story is new drivers, and I aim to help them identify the most important factors for safe driving. 
-My interviewees vary from male to female, age 20s to 30s, and new drivers to skilled drivers
+My interviewees vary from male to female, aged 20s to 30s, and new drivers to skilled drivers.
+From the interviews, I hope to find out whether my story seems clear to users, whether there is something that is missing that they might want to see, and what they think about the overall design as well as the data visualization design.
+
 
 ##### Interview Script
 
