@@ -57,15 +57,15 @@ From the interviews, I hope to find out whether my story seems clear to users, w
 
 | Question | Male, 20s | Female, 20s | Male, 30s |
 | --- | --- | --- | --- |
-| 1. What story do you think this is about?  | 1 | 2 | 3 |
-| 2. How do you feel about the story, is it convincing? | 1 | 2 | 3 |
-| 3. Did you find anything surprising or confusing? | 1 | 2 | 3 |
-| 4. What worked, what didn’t work? What are the things you might do differently? | 1 | 2 | 3 |
-| 5. Is there anything else that is missing that you would like to see? | 1 | 2 | 3 |
-| 6. How does the overall design look to you? | 1 | 2 | 3 |
-| 7. How would you improve the data visualization design? Do they seem to explain the data well? | 1 | 2 | 3 |
-| 8. Do you think beginning drivers would benefit from this story, why? | 1 | 2 | 3 |
-| 9. What are some other suggestions you might give? | 1 | 2 | 3 |
+| 1. What story do you think this is about?  | I think the story is about safe driving. | 2 | 3 |
+| 2. How do you feel about the story, is it convincing? | Yes, it is convincing. The data with specific numbers create a more convincing story to me. | 2 | 3 |
+| 3. Did you find anything surprising or confusing? | I found that the fact that half of the crash deaths happens between 3pm-12am in 2020 is very surprising. | 2 | 3 |
+| 4. What worked, what didn’t work? What are the things you might do differently? | Many things worked for me except the speeding. I think I would probably produce a graph which relates exact speed with the ratios of deaths and crash if I have enough dataset. | 2 | 3 |
+| 5. Is there anything else that is missing that you would like to see? | I would like to see if there is any relationship between drivers' age and car crash.  | 2 | 3 |
+| 6. How does the overall design look to you? | It looks succinct in total design with concise and direct data for the graphs it contains. | 2 | 3 |
+| 7. How would you improve the data visualization design? Do they seem to explain the data well? | I think the bar chart and pie chart looks very straight on the points the author wants us to notice. Not coming up with really good advice. | 2 | 3 |
+| 8. Do you think beginning drivers would benefit from this story, why? | Surely they will. Those numbers straightly connecting deaths with car crashes due to different reasons will make them be more careful when driving on the road. | 2 | 3 |
+| 9. What are some other suggestions you might give? | Maybe we could make the alcohol visualization part more impressive, as this lesson is a very important one for drivers in the USA. | 2 | 3 |
 
 ##### Findings from interviews
 
