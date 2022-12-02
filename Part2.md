@@ -43,12 +43,11 @@ Respondent 3: Female, 20s, does not have a driver's license
 Respondent 4: Male, 20s, has a driver's license
 
 
-## User Research
+## User Research & Interviews
 
 What I hope to get from the interview:
 * 
 
-## Interviews
 
 ##### Interview Questions
 
