@@ -66,7 +66,7 @@ What I hope to get from the interview:
 
 | Question | Male, 20s | Female, 20s | Male, 30s |
 | --- | --- | --- | --- |
-| 1. What story do you think this is about?  | How would you improve the data visualization design? Do they seem to explain the data well? | How would you improve the data visualization design? Do they seem to explain the data well? | 3 |
+| 1. What story do you think this is about?  | 1 | 2 | 3 |
 | 2. How do you feel about the story, is it convincing? | 1 | 2 | 3 |
 | 3. Did you find anything surprising or confusing? | 1 | 2 | 3 |
 | 4. What worked, what didn’t work? What are the things you might do differently? | 1 | 2 | 3 |
