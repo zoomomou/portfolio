@@ -7,7 +7,7 @@ _*Content Warning: This page contains sensitive content that may be harmful or t
 
 [Shorthand Link](https://preview.shorthand.com/4YigjRKvgqbFR0Xl)
 
-##### Other Prep Works - Survey
+##### Other Prep Work: Survey
   
 What I hope to find from the survey:
 
@@ -16,7 +16,7 @@ What I hope to find from the survey:
 * Through first-hand experience, what are the factors that people believe most affect safe driving
 * What might cause them to change their driving habits
 * Are there any safe-driving measures or methods that people find helpful
-* Any other suggestion people have to new drivers
+* Any other suggestions people have to new drivers
   
 Survey Questions:
 
@@ -45,14 +45,36 @@ Respondent 4: Male, 20s, has a driver's license
 
 ## User Research
 
-What I hope to get from the 
+What I hope to get from the interview:
+* 
 
 ## Interviews
 
 ##### Interview Questions
-  
 
+1. What story do you think this is about? 
+2. How do you feel about the story, is it convincing?
+3. Did you find anything surprising or confusing?
+4. What worked, what didn’t work? What are the things you might do differently?
+5. Is there anything else that is missing that you would like to see?
+6. How does the overall design look to you? 
+7. How would you improve the data visualization design? Do they seem to explain the data well?
+8. Do you think beginning drivers would benefit from this story, why?
+9. What are some other suggestions you might give?
 
+##### Interview Script
+
+| Question | Male, 20s | Female, 20s | Male, 30s |
+| --- | --- | --- | --- |
+| 1. What story do you think this is about?  | 1 | 2 | | 3 |
+| 2. How do you feel about the story, is it convincing? | 1 | 2 | | 3 |
+| 3. Did you find anything surprising or confusing? | 1 | 2 | | 3 |
+| 4. What worked, what didn’t work? What are the things you might do differently? | 1 | 2 | | 3 |
+| 5. Is there anything else that is missing that you would like to see? | 1 | 2 | | 3 |
+| 6. How does the overall design look to you? | 1 | 2 | | 3 |
+| 7. How would you improve the data visualization design? Do they seem to explain the data well? | 1 | 2 | | 3 |
+| 8. Do you think beginning drivers would benefit from this story, why? | 1 | 2 | | 3 |
+| 9. What are some other suggestions you might give? | 1 | 2 | | 3 |
 
 <br/>
 
