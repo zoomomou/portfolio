@@ -17,7 +17,7 @@ I am also eager to learn tools that are helpful for data visualization.
 Still making decisions o post-graduate plans, but will travel a lot for sure before start working.
 
 
-# Portfolio
+# List of Assignments
 
 ## Data Visualization Critique
 
